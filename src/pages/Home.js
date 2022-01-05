@@ -13,7 +13,7 @@ const Home = () => {
     >
       <div className="headerContainer">
         <h1>Pedro's Pizzeria</h1>
-        <p>PIZZA TO FIT MY TASTE</p>
+        <p>PIZZA TO FIT MY TASTE BUDZ</p>
         <Link to="menu">
           <button>ORDER NOW!</button>
         </Link>
