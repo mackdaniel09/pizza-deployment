@@ -15,7 +15,7 @@ const Home = () => {
         <h1>Pedro's Pizzeria</h1>
         <p>PIZZA TO FIT MY TASTE</p>
         <Link to="menu">
-          <button>ORDER NOW</button>
+          <button>ORDER NOW!</button>
         </Link>
       </div>
     </div>
